@@ -82,6 +82,11 @@ nav {
 	display: none;
 }
 
+
+.storage::-webkit-scrollbar {
+	display: none;
+}
+
 /* hiding scrollbar for chrome, opera, etc */
 .main-window-home::-webkit-scrollbar {
 	display: none;
