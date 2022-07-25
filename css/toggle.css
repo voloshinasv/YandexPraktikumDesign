@@ -20,8 +20,8 @@
 	right: 0;
 	bottom: 0;
 	background-color: #ccc;
-	-webkit-transition: 0s;
-	transition: 0s;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
 }
   
 .toggle-slider:before {
@@ -32,8 +32,8 @@
 	left: 5px;
 	bottom: 2px;
 	background-color: white;
-	-webkit-transition: 0s;
-	transition: 0s;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
 }
   
 input:checked + .toggle-slider {
